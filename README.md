@@ -1,4 +1,4 @@
-# Welcome to React Router!
+# Welcome to React Router! This repo includes the tutorial for react router as a framework.
 
 - [React Router Docs](https://reactrouter.com/home)
 
@@ -26,13 +26,3 @@ Then run the app in production mode:
 npm start
 ```
 
-Now you'll need to pick a host to deploy it to.
-
-### DIY
-
-If you're familiar with deploying node applications, the built-in React Router app server is production-ready.
-
-Make sure to deploy the output of `react-router build`
-
-- `build/server`
-- `build/client`
